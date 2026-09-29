@@ -1,4 +1,3 @@
-````markdown
 # Python Module 03 — Data Quest
 
 Mastering Python collections through lists, tuples, sets, dictionaries, generators, and comprehensions.

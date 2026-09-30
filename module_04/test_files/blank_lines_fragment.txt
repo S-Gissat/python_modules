@@ -1,0 +1,3 @@
+[FRAGMENT 001] First preserved line
+
+[FRAGMENT 002] Second preserved line

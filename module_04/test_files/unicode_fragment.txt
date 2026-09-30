@@ -1,0 +1,3 @@
+[FRAGMENT 001] Preservation test: ä ö ü ß
+[FRAGMENT 002] Coptic sample: ⲙⲓⲭⲁⲏⲗ
+[FRAGMENT 003] Symbols: § © → ✓

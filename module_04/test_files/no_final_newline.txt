@@ -1,0 +1,2 @@
+[FRAGMENT 001] This file intentionally has no final newline
+[FRAGMENT 002] Useful for checking output formatting

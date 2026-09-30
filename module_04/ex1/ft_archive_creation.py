@@ -36,10 +36,13 @@ def read_file(file: typing.IO[str], file_name: str) -> str:
 def transform_content(content: str) -> str:
     lines: list[str]
     new_content: str
+    i: int
 
+    i = 0
     lines = content.splitlines()
-    for i in range(len(lines)):
+    while i < len(lines):
         lines[i] = lines[i] + "#"
+        i += 1
     new_content = "\n".join(lines)
     return new_content
 
